@@ -97,8 +97,7 @@ body {
   font-size: 23px;
   position: absolute;
   top: 310px;
-  left: 230px;
-  
+  left: 230px; 
 }
 
 #main_container_02 {
@@ -107,6 +106,8 @@ body {
   margin-bottom: 145px;
   position: relative;
 }
+
+
 #circle05 {
   position: absolute;
   top: -30px;
